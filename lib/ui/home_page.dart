@@ -147,7 +147,7 @@ class _HomePageState extends State<HomePage> {
                     ["url"],
                 height: 300.0,
                 fit: BoxFit.cover,
-                fadeInDuration: const Duration(seconds: 5),
+                fadeInDuration: const Duration(seconds: 1),
               ),
               onTap: () {
                 Navigator.push(

@@ -4,7 +4,7 @@ import 'package:share_plus/share_plus.dart';
 class GifPage extends StatelessWidget {
 
   final Map _gifData;
-
+// teste
   GifPage(this._gifData);
 
   @override
